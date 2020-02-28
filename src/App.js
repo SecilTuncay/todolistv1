@@ -5,9 +5,9 @@ import Todolist from './containers/Todolist';
 class App extends Component {
   render() {
     return (
-      <div className="App" >
+      <div className="App">
         <header className="App-header">
-          FIRST APP
+          TODOLIST
         </header>
         <Todolist />
       </div>
