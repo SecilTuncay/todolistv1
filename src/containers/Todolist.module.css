@@ -1,0 +1,13 @@
+.ListItem{
+    background-color: aqua;
+    height:100%;
+    color:#181717;
+    cursor:pointer;
+    width:350px;
+    padding: 5px;
+    margin:10px 100px;
+    text-align: left;
+    border-radius:10px;
+    list-style: none;
+    
+}
